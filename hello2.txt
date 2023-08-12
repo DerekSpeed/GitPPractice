@@ -1,10 +1,5 @@
 Hey there!
 Today is raining.
-<<<<<<< HEAD
-To solve confilicts.......
-Be happy, man
-
-=======
 To solve confilicts.
 follow me in this file.
->>>>>>> ea50e0e (update hello2.txt in Windows)
+
