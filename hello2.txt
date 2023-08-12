@@ -4,5 +4,7 @@ To solve confilicts.......
 Be happy, man
 Lets' do it again.
 Now follow me this time in Linux.
+If cherry-pick to main，what will happen？
+Make a guess.
 
 
