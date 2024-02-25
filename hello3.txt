@@ -1,0 +1,6 @@
+I'm trying to use commit ame
+
+what will happen when you use amend after push?
+
+stash test
+
