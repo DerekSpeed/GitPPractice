@@ -1,3 +1,0 @@
-This is a new file to test stash
-This line above is from Centos
-================================
